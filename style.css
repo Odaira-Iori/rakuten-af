@@ -12,8 +12,22 @@ a {
     color: black;
 }
 
+h1 {
+    border-bottom: 3px solid #b82525;
+    width: 60vw;
+    margin: auto;
+    padding-top: 3%;
+}
+
 h2 {
     width: 40vw;
     margin: 5% auto 2%;
     border-bottom: 1.5px solid #b82525;
+}
+
+div {
+    width: 40vw;
+    margin: auto;
+    background-color: rgb(234, 234, 234);
+    padding: 15px;
 }
